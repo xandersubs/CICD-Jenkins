@@ -3,7 +3,7 @@
 ​This lab's focus is on partially building a CICD pipeline by integrating Github and Jenkins. I have included steps to and troubleshooting common issues faced during setup, and ensuring a smooth continuous integration workflow. You'll learn to set up Jenkins, connect it to a GitHub repository, and resolve authentication, branch configuration challenges.
 ### How to submit:
 
-Please show me the successful build on your Jenkins either during this lab or next week’s lab. I prefer an in-person demo over a recorded one, unless you have a valid reason for not being able to attend next week’s lab.
+Please show me the successful build on your Jenkins either during this lab or next week’s lab. I prefer an in-person demo over a recorded one, unless you have a valid reason for not being able to attend next week’s lab.`
 
 ## Lab Overview
 - Part 1: Setting up the environment

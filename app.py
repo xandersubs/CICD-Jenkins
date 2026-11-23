@@ -1,4 +1,4 @@
-def greet(name="Jenkins"):
+def greet(name="Jenkis"):
     return f"Hello, {name}!"
 
 
